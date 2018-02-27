@@ -7,4 +7,3 @@ function sumOfMultiples(input) {
 }
 
 console.log(sumOfMultiples(1000));
-
