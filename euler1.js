@@ -5,3 +5,6 @@ function sumOfMultiples(input) {
  const reducer = (accumulator, currentValue) => accumulator + currentValue;
  return numbersToAdd.reduce(reducer);
 }
+
+console.log(sumOfMultiples(1000));
+
